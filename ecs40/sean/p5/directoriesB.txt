@@ -1,0 +1,19 @@
+mkdir first 
+mkdir second
+cd second
+mkdir third
+cd third
+mkdir fourth
+mkdir fifth
+cd ..
+cd ..
+mkdir sixth
+cd first
+mkdir seventh
+cd ..
+cd sixth
+mkdir a
+mkdir b
+mkdir c
+exit
+

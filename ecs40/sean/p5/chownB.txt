@@ -1,0 +1,7 @@
+mkdir first
+mkdir second
+mkdir third
+chown andrei first third
+ls -l
+exit
+

@@ -1,0 +1,6 @@
+mkdir first
+chmod 776 first
+su davis
+cd first
+exit
+

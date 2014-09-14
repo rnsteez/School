@@ -1,0 +1,5 @@
+mkdir first
+cp first first2
+ls -l
+exit
+

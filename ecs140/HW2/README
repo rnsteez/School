@@ -1,0 +1,18 @@
+*** This "README" file is parsed by Perl. ***
+*** DO NOT change the format of the first 8 lines of this file ***
+
+Student ID (last 6 digits): 93-6848
+Name(last): Yung
+Name(first): Wai Shing
+Login_ID: wyung
+
+Status:
+
+part1: Works on all tests.
+part2: Works on all tests.
+part3: Works on all tests.
+part4: t34 output is wrong. The rest tests are good. I think my
+        symbol table isn't working right ...
+part5: Did not attempt.
+
+Overall: Any comment/discussion related to this HW.

@@ -1,0 +1,5 @@
+mkdir first
+su davis
+chown davis first
+exit
+

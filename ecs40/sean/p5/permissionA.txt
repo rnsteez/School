@@ -1,0 +1,4 @@
+mkdir first
+ls -l
+exit
+

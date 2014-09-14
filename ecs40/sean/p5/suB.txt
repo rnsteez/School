@@ -1,0 +1,12 @@
+mkdir a
+chmod 777 a
+cd a
+su andrei
+mkdir first
+su li
+mkdir second
+su davis
+mkdir third
+ls -l
+exit
+

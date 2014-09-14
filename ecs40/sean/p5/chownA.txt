@@ -1,0 +1,5 @@
+mkdir first
+chown andrei first
+ls -l
+exit
+

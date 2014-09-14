@@ -1,0 +1,6 @@
+mkdir first
+mkdir second
+chmod 456 second first
+ls -l
+exit
+

@@ -1,0 +1,7 @@
+mkdir first
+cd first
+mkdir second
+mkdir third
+mkdir fourth
+exit
+

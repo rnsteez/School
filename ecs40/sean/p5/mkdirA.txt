@@ -1,0 +1,10 @@
+mkdir first
+mkdir second
+mkdir third
+mkdir fourth
+mkdir fifth
+mkdir sixth
+mkdir seventh
+ls 
+exit
+

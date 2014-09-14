@@ -1,0 +1,13 @@
+davis 22
+/ 4 7 25 51 26 755 root 3
+first 4 12 11 15 55 777 root 2
+f 4 12 11 15 55 755 davis 0
+firstA 4 7 25 51 50 755 root 1
+firstB 4 7 25 51 50 755 root 0
+second 4 7 25 52 1 755 root 1
+firstA 4 7 25 52 43 755 root 2
+firstB 4 7 25 52 1 755 root 0
+temp 4 7 25 52 43 755 root 0
+third 4 7 25 62 45 200 root 1
+firstA 4 7 25 62 45 755 root 1
+firstB 4 7 25 62 45 755 root 0

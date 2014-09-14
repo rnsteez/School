@@ -1,0 +1,49 @@
+changd/checksum.c:21:      checksum = checksum%64;
+changd/checksum.c:      checksum = checksum%64;
+chenf/election.c:62:			sum+= x[i][j];
+freedman/election.c:21:  for (i=0; i<5; i +=1)
+freedman/election.c:23:    for (j=0; j<5; j +=1)
+freedman/election.c:45:  for (i=0; i<6; i +=1)
+freedman/election.c:48:    for(j=0; j<5; j+=1)
+hongn/checksum.c:20:      sum +=(int) input;
+huangx/checksum.c:24:      val = (int)(sum%64 + 32);
+huangx/checksum.c:      val = (int)(sum%64 + 32);
+
+kangs/checksum.c:19:  temp = sum%64;
+kangs/checksum.c:  temp = sum%64;
+khalili/election.c:56:	count+=1;
+kovacevi/checksum.c:20:    checksum=(sum%64)+32;
+kovacevi/checksum.c:    checksum=(sum%64)+32;
+linp/polygon.c:55:		area+=((array_x[i] * array_y[i+1])-(array_x[i+1] * array_y[i]));
+liuv/checksum.c:16:			checksum+=(int)line;
+liuv/checksum.c:20:		checksum+=(int)' '; //calculate checksum
+liuv/checksum.c:		checksum%=64;
+liuv/election.c:112:	t_votes*=.5;
+liuv/election.c:62:		total_votes[pos]*=-1;
+liuv/polygon.c:64:	area*=0.5; //final area
+
+martinl/election.c:122:    total+=temp[5][i];
+narang/checksum.c:        checksum = (checksum + (int) store) % (64);
+polloren/checksum.c:17:  checksum+= (int)ch;
+polloren/election.c:62:    suma+= a[i];
+polloren/election.c:63:    sumb+= b[i];
+polloren/election.c:64:    sumc+= c[i];
+polloren/election.c:65:    sumd+= d[i];
+polloren/polygon.c:71:      sum+=(x[i+1] + x[i]) * (y[i+1] - y[i]);
+sadhra/checksum.c:21:    remainder = (char)((sum%64) + space);
+sadhra/checksum.c:    remainder = (char)((sum%64) + space);
+sepulved/checksum.c:26:		num=(num%64)+32;
+sepulved/checksum.c:		num=(num%64)+32;
+sepulved/election.c:36:				election[5][j]+=vote_1;
+sepulved/election.c:41:				election[5][j]+=vote_2;
+sepulved/election.c:46:				election[5][j]+=vote_3;
+sepulved/election.c:51:				election[5][j]+=vote_4;
+tanj/checksum.c:14:  remain=sum%64+32;//takes remainder and adds space(32)
+tanj/checksum.c:  remain=sum%64+32;//takes remainder and adds space(32)
+tanmi/checksum.c:23:		checksum =(total%64) + 32;
+tanmi/checksum.c:		checksum =(total%64) + 32;
+truonga/checksum.c:26:    char_code = (int)char_code%64 + (int)ADD_CHAR;
+truonga/checksum.c:    char_code = (int)char_code%64 + (int)ADD_CHAR;
+valeriot/checksum.c:32:		checksum = (total%64) + 32;
+valeriot/checksum.c:		checksum = (total%64) + 32;
+yangz/checksum.c:17:      total +=char_code;

@@ -1,0 +1,6 @@
+mkdir first
+chmod 500 first
+cd first
+mkdir second
+exit
+

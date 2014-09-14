@@ -1,0 +1,16 @@
+mkdir first
+cd first
+mkdir second
+mkdir fifth
+mkdir sixth
+cd second
+mkdir third
+cd ..
+cd ..
+mkdir fourth
+cp first first2
+ls -l
+cd first2
+ls -l
+exit
+

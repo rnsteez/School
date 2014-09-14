@@ -1,0 +1,8 @@
+0
+/ 4 7 20 45 14 755 3
+first 4 3 8 5 47 777 1
+firstB 4 3 8 5 59 777 1
+firstC 4 3 8 5 59 777 0
+second 4 3 8 6 28 777 1
+secondB 4 3 8 6 28 777 0
+qewrpoiuqwer 4 7 16 37 12 777 0

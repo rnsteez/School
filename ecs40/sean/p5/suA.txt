@@ -1,0 +1,8 @@
+mkdir first
+chmod 777 first
+cd first
+su andrei
+mkdir second
+ls -l
+exit
+

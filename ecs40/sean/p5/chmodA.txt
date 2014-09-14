@@ -1,0 +1,5 @@
+mkdir first
+chmod 123 first
+ls -l
+exit
+

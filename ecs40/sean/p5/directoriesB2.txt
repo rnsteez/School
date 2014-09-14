@@ -1,0 +1,4 @@
+cd sixth
+ls -l
+exit
+
