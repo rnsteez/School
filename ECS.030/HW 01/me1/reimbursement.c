@@ -1,4 +1,8 @@
-/* Wai Shing Yung 996936848 */
+/* Wai Shing Yung 996936848 
+calculates reimbursement based on distance traveled 
+@param odometer readings
+10/11/11
+*/
 #include <stdio.h>
 #define r .35
 
