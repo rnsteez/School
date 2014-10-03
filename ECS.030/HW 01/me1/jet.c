@@ -1,7 +1,7 @@
 /* Wai Shing Yung 996936848 
 Calculates acceleration of jet
 @param takeoff speed, distance
-10/11/11
+10/5/11
 */
 #include <stdio.h>
 int

@@ -1,4 +1,8 @@
-//Wai Shing Yung 996936848
+/*Wai Shing Yung 996936848
+converts runner time to rates
+@param time 
+10/11/11
+*/
 #include<stdio.h>
 #include<math.h>
 #define FT 5280

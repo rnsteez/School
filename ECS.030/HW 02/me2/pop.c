@@ -1,4 +1,8 @@
-//Wai Shing Yung 996936848 
+/*Wai Shing Yung 996936848 
+Simulate population growth
+@param year
+10/11/11
+*/
 #include<stdio.h>
 #define P 52.966
 #define YEAR 1990

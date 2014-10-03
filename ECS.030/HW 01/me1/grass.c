@@ -1,7 +1,7 @@
 /* Wai Shing Yung 996936848 
 Calculates the time it takes to mow lawn
 @param measurements of yard and house
-10/11/11
+10/5/11
 */
 #include <stdio.h>
 

@@ -1,4 +1,8 @@
-//Wai Shing Yung 996936848
+/*Wai Shing Yung 996936848
+calc material cost for cylinders
+@param measurements
+10/11/11
+*/
 #include<stdio.h>
 #include<math.h>
 FILE *fp;

@@ -1,4 +1,8 @@
-//Wai Shing Yung 996936848
+/*Wai Shing Yung 996936848
+calc cost of home ownership
+@param initial cost, fuel cost, tax rate
+10/11/11
+*/
 #include<stdio.h>
 
 int main()

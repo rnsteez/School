@@ -1,7 +1,7 @@
 /* Wai Shing Yung 996936848 
 Calculates pythagorean triples
 @param two ints
-10/11/11
+10/5/11
 */
 #include <stdio.h>
 #include <math.h>
